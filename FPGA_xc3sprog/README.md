@@ -1,4 +1,6 @@
 # xc3sprog: инструментарий JTAG
+
+Источник https://microsin.net/programming/avr/xc3sprog-jtag-tools.html
  
 xc3sprog это набор утилит для программирования микросхем Xilinx FPGA, CPLD и EEPROM через Xilinx Parallel Cable и другие адаптеры JTAG. xc3sprog запускается как приложение с интерфейсом командной строки на операционных системах Linux и Windows.
 
