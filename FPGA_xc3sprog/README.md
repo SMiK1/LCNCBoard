@@ -62,3 +62,49 @@ xc3sprog -c pp -v -p 1 filename.bit
 ![screen2](xc3sprog_screen2.png)
 
 xc3sprog поддерживает множество настроек для других плат и других операций по программированию. Подробнее см. руководство [3] (или врезку "Руководство пользователя"), где имеется описание команд, опций и другие примеры использования.
+
+
+
+## Программируемые устройства:
+
+• Xilinx XC95X series
+• Xilinx CoolRunner-II
+• Xilinx Spartan-2
+• Xilinx Spartan-3
+• Xilinx Spartan-6
+• Xilinx Virtex-2 (не тестировалось)
+• Xilinx Virtex-5
+• Xilinx 7 Series (Virtex-7, Kintex-7, Artix-7; tested on XC7VX690T, XC7A200T)
+• Xilinx Zynq 7000 (only logic, not ARM)
+• Xilinx Platform Flash XCFnnS
+• Xilinx Platform Flash XCFnnP (ограниченная функциональность)
+• Atmel AVR: ATmega, Xmega
+• SPI flash: AT45, AMIC, AMIC-QUAD, M25P, N25Q, S33, W25
+
+## Поддерживаемые кабели JTAG:
+
+label	|Интерфейс|	Описание
+----------|----------|----------
+pp	   |parallel port	|Xilinx Parallel Cable III (DLC5), или Altera ByteBlaster
+ftdi   |USB|Стандартный кабель JTAG на основе чипа FTDI (FT2232C, FT232H или совместимый)
+bbv2   |USB|	Bus Blaster v2 (DangerousPrototypes)
+bbv2_2 |USB|Bus Blaster v2, internal JTAG port
+amontec|USB|	Amontec JTAGkey
+olimex |USB|Адаптер Olimex USB-JTAG
+jtaghs1|USB|	Кабель Digilent JTAG-HS1
+jtaghs2|USB|	Кабель Digilent JTAG-HS2
+ikda	  |USB|	 
+llbbc	 |USB|	 
+llif	  |USB|	 
+llbus	 |USB|	 
+ftdijtag	|USB|	 
+ft2232test	|USB|	 
+l_motctl	|USB|	 
+l_motctl_avr	 	 
+knob2usb	|USB|	 
+qm07_pu	|USB|	 
+xpc	|USB|	Xilinx Platform Cable USB II (DLC10), или программатор, встроенный в плату разработчика (например, Spartan 3E starter kit)
+llbbc08	|USB|	 
+qdu16	|USB|	 
+
+
