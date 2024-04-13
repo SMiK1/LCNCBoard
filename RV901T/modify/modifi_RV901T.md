@@ -1,4 +1,9 @@
 RV901T Modification
+--------------------
+
+<img src="RV901T_mod_1.jpg" />
+<img src="RV901T_mod.jpg" />
+
 There are two options. 
 The first one consists of:
 1. removing of R608 resistor (upper part of the board)
