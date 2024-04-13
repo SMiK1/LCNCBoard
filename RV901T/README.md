@@ -1,6 +1,7 @@
 RV901T Hardware
 ===============
 The Linsn RV901T HUB75 LED driver card has a Spartan 6 LX16 FPGA.
+-------------
 Annotated PCB
 -------------
 <img src="front_annotated.jpg" />
