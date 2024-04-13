@@ -312,7 +312,7 @@ Thanks to jeanthom for reverse engineering the SDRAM interface.
 
 Thanks for informatic for reverse engineering the HUB75B hat.
 
-Thanks for q3k
+Thanks to q3k
 
 License
 -------
