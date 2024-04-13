@@ -19,6 +19,7 @@ Getting start
 --------
 Modify
 --------
+There is [modification documentation](./modify/README.md) available, which includes information about RV901T modification for switch bidirectional drivers.
 
 Hardware
 --------
@@ -67,4 +68,4 @@ License
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/") - to the extent possible under law, the person who associated CC0 with this 
 work has waived all copyright and related or neighboring rights to this work.
 
-
+https://cnc-club.ru/forum/viewtopic.php?f=158&t=20858&view=unread&sid=7e65c33d4ede5b173da8d7d96b3aed0d#unread
