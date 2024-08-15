@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\YandexDisk\BackUP\GitHub\LCNCBoard\RV901T\blink\ise\top.ncd
+OUTFILE=D:\YandexDisk\BackUP\GitHub\LCNCBoard\RV901T\blink\ise\top.bit
+FAMILY=Spartan6
+PART=xc6slx16-2ftg256
+WORKINGDIR=D:\YandexDisk\BackUP\GitHub\LCNCBoard\RV901T\blink\ise
+LICENSE=WebPack
+USER_INFO=__0_0_0
